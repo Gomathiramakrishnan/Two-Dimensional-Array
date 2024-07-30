@@ -1,4 +1,4 @@
-Rotate matrix as 90 degree clockwise 
+
 public class RotateMatrix {
     public static void main(String[] args) {
         int[][] matrix = {
@@ -47,6 +47,9 @@ public class RotateMatrix {
         }
     }
 }
+
+
+Output:
 
 Rotated Matrix:
 7 4 1 
